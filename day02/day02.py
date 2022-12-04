@@ -83,7 +83,7 @@ def main():
     part1val = partOne()
     print(f"Part 1: {part1val}")
     part2val = partTwo()
-    print(f"Part 1: {part2val}")
+    print(f"Part 2: {part2val}")
 
 
 if __name__ == "__main__":
