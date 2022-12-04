@@ -1,6 +1,6 @@
 def readFile():
     lines = []
-    with open("day02.txt") as file:
+    with open("day02-input.txt") as file:
         for line in file:
             line = line.strip()
             lines.append(line.split())
